@@ -221,7 +221,8 @@ ul {
 	letter-spacing: 0.35px;
 }
 .top-header .col-md-6:last-child > a {
-	background-color: #0e4b8e;
+	/* background-color: #77212E; */
+	background-color: #77212E;
 	color: #fff;
 	padding: 12px 15px 12px 30px;
 	text-transform: uppercase;
@@ -258,7 +259,8 @@ ul {
 	text-align: center;
 }
 .logo-block h4 {
-	color: #0e4b8e;
+	/* color: #77212E; */
+		color: #77212E;
 	font-size: 28px;
 	text-transform: uppercase;
 	font-family: 'eb_garamond08_regular';
@@ -319,7 +321,7 @@ ul {
 .middle-header .phone h3 {
 	font-size: 24px;
 	text-transform: uppercase;
-	color: #0e4b8e;
+	color: #77212E;
 	margin-top: 0;
 	font-family: 'eb_garamond08_regular';
 	margin-bottom: 0;
@@ -592,7 +594,7 @@ ul {
 	color: #fff;
 }
 .page-banner::before {
-	background-color: #0e4b8e;
+	background-color: #77212E;
 	opacity: 0.7;
 	content: "";
 	position: absolute;
@@ -638,12 +640,12 @@ ul {
 	display: inline-block;
 	position: relative;
 	background-color: #fff;
-	color: #0e4b8e;
+	color: #77212E;
 	margin-left: -7%;
 }
 .page-banner .breadcrumb li,
 .page-banner .breadcrumb li a {
-	color: #0e4b8e;
+	color: #77212E;
 	text-transform: uppercase;
 	font-size: 12px;
 	letter-spacing: 0.7px;
@@ -652,7 +654,7 @@ ul {
 	text-decoration: none
 }
 .page-banner .breadcrumb > li + li::before {
-	color: #0e4b8e;
+	color: #77212E;
 }
 
 .about-banner {
@@ -762,7 +764,7 @@ ul {
 /* -- max-width: 767 */
 @media(max-width: 767px) {
 	.page-banner {
-		border-bottom: 1px solid #0e4b8e;
+		border-bottom: 1px solid #77212E;
 	}
 	.section-padding {
 		padding: 40px 0;

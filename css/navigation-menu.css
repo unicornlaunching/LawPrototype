@@ -9,7 +9,7 @@
 
 /* ## Navigation Menu */
 .ow-navigation {
-	background-color: #0e4b8e;
+	background-color: #77212E;
 	padding: 0;
 	min-height: 1px;
 	margin-bottom: 0;
@@ -22,7 +22,7 @@
 }
 .ow-navigation:before {
 	content: "";
-	background-color: #0e4b8e;
+	background-color: #77212E;
 	position: absolute;
 	left: 0;
 	right: 0;
