@@ -661,8 +661,13 @@ ul {
 	background: url("images/about-headerbg.jpg");
 	/*margin-bottom: 25px;*/
 }
+
 .service-banner {
 	background: url("images/services-headerbg.jpg");
+}
+
+.contact-banner {
+	background: url("images/contacts-headerbg.jpg");
 }
 
 .blog-banner {
