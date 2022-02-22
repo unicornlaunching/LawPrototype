@@ -2155,7 +2155,7 @@
 	/* - Guidance Tabpanel */
 	.guidance-tabpanel .nav-tabs li > a {
 		font-size: 12px;
-		padding: 25px 15px;
+		padding: 25px 15px 25px;
 		/* padding: 33px 15px; */
 	}
 }
