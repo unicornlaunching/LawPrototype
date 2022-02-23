@@ -218,12 +218,12 @@
 		/* - Team Section */
 		if( $(".team-carousel").length ) {
 			$(".team-carousel").owlCarousel({
-				loop: true,				
+				loop: false,				
 				margin: 0,
 				dots: false,
 				nav:false,				
 				autoplay:false,				
-				autoplayHoverPause:true,
+				autoplayHoverPause:false,
 				responsive:{
 					640:{
 						items:1
