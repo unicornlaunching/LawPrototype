@@ -230,12 +230,12 @@
 					},
 					992:{
 						items:2
-					},
-					1200:{
-						items:3
-					},
-					1200:{
-						items:3
+					// },
+					// 1200:{
+					// 	items:3
+					// },
+					// 1200:{
+					// 	items:3
 					}
 					// OLD CODE BELOW - CENTERED TWO CAROUSEL PICTURES
 					// responsive:{
