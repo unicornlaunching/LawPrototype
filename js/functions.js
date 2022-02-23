@@ -225,18 +225,32 @@
 				autoplay:false,				
 				autoplayHoverPause:true,
 				responsive:{
-					0:{
+					640:{
 						items:1
 					},
-					640:{
+					992:{
 						items:2
 					},
-					992:{
+					1200:{
 						items:3
 					},
 					1200:{
 						items:3
 					}
+					// OLD CODE BELOW - CENTERED TWO CAROUSEL PICTURES
+					// responsive:{
+					// 	0:{
+					// 		items:1
+					// 	},
+					// 	640:{
+					// 		items:2
+					// 	},
+					// 	992:{
+					// 		items:3
+					// 	},
+					// 	1200:{
+					// 		items:3
+					// 	}					
 				}
 			});
 		}
