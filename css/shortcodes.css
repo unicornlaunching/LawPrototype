@@ -474,13 +474,6 @@
 .team-carousel.owl-carousel .owl-item img {
 	width: auto;
 	margin: 0 auto;
-	responsive:{
-		640:{
-			items:1
-		},
-		992:{
-			items:2
-		}
 }
 
 /* - Member Name */
